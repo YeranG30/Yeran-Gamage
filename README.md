@@ -1,50 +1,54 @@
-# Yeran-GamageYeran Gamage
-Wesley Chapel, FL 33543 | (813)-510-7038 | yerangamage@gmail.com | www.linkedin.com/in/yerangamage04/
+<h1>Hi, I'm Yeran! <br/><a href="https://github.com/YeranG30">Cybersecurity Student </a> and <a href="www.linkedin.com/in/yerangamage04">Aspiring Cybersecurity Professional</a>
 
-KEY SKILLS
- 
-Cybersecurity • Kali Linux • Python • SQL • Active Directory • Metasploit • Nmap • Burpsuite • Networking
-•	Encryption • John the Ripper • Windows • Privilege Escalation • Penetration Testing • OWASP• Web Fundamentals • OSINT • Linux Enumeration • SQL Injections •Web Hacking
-EDUCATION
-University of South Florida - GPA: 3.80	Expected May 2026
-Bachelor of Science in Cyber Security	Tampa, FL
-•	Honors College Student | Presidential Scholar | Judy Genshaft Honors Scholar
-Hillsborough Community College – GPA: 3.80	August 2018 – May 2022
-Associates in Arts completed in High School	Tampa, FL
+<h2>👨‍💻 Software Development Projects:</h2>
 
-PERSONAL PROJECTS
-Secure Password Manager – Self Learning Project	Fall Semester, 2023
-•	Implemented Python, SQLite, Fernet Encryption, and Argon2 for secure password management.
-•	Built OOP, Agile Methodologies, and SQLite3 database capable of storing 10,000 user entries.
-•	Offers real-time protection and 8 additional features which use pythonic GUI.
-VirtualBox Honeypot – Self Learning Project	Fall Semester, 2023
-•	Deployed honeypot with Cowrie and containerized using Docker on Oracle VirtualBox and Ubuntu distribution.
-•	Simulated real-time SSH vulnerabilities and monitored attacks with Wireshark.
-•	Analyzed five attack vectors in Cowrie logs in intrusion patterns.
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-Password Brute Force Scanner– Self Learning Project	Fall Semester, 2023
-•	Designed Pythonic app to assess password strength against brute force attacks.
-•	Cross-references with popular OSINT ‘rockyou’ wordlist containing 8.4 billion vulnerable passwords.
-•	Provides real-time metrics against tools such as John the Ripper and Hydra.
-LEADERSHIP EXPERIENCE
-Boxing Club at USF	April 2023 – Present
-Co-Founder, Vice-President	Tampa, FL
-•	Implementing an elite Officer Management System to elevate club operations to collegiate standards of excellence.
-•	Organizing a comprehensive marketing campaign, leading to a 2000% increase in club membership.
-•	Drafting constant resources for members, allowing for a 50% increase in current member satisfaction.
+<h2>📺 Popular YouTube Videos</h2>
 
-WORK EXPERIEN CE
-Publix	June 2023 – August 2023
-Customer Service Representative	Wesley Chapel, FL
-•	Spearheaded $20K monthly financial transfers with 100% accuracy, ensuring secure, fraud-free customer transactions.
-•	Mastered the art of empathetic communication and problem-solving to enhance client satisfaction and loyalty.
-•	Implemented customer feedback system, increasing satisfaction ratings by 20%.
-•	Honed teamwork skills through cross-functional collaborations, boosting quarterly store performance ratings.
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-RECREATIONAL INTERESTS
-Interests: Intramural Basketball, Quantitative Finance, Boxing, Backend-Developing, Capture the Flag (CTF’s), Tutoring
-Languages: English (Fluent), Sinhalese (Proficient)
-Extracurricular: Boxing Club at USF, Whitehatters Computer Security Club, Investing Club, Google Student Developer Club
-ADDITIONAL CAREER DEVELOPMENT
-•	https://github.com//YeranG30	• Studying for the CompTIA Security +
-•	https://tryhackme.com/p/Narey	• Daily practice in cybersecurity-based labs
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
