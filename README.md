@@ -36,7 +36,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YeranG30&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeranG30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 👨‍💻 Software Development Projects:
+## 👨‍💻 Cyber Security Projects:
 
 - **Automated Penetration Testing Framework**
   - [Automated Reconnaissance and Vulnerability Detection](https://github.com/YeranG30/AutomatedSecurityTests) (Spring 2024)  
