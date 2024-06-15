@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yeran! <br/><a href="https://github.com/YeranG30">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/yerangamage04">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Yeran! <br/><a href="https://github.com/YeranG30">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/yerangamage04">Aspiring Cybersecurity Professional</a></h1>
 
 
 ## 💫 About Me:
