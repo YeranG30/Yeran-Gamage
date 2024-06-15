@@ -5,7 +5,8 @@
 - Working on penetration testing
 - Collaborating on Python scripting
 - Helping with learning new technologies
-- Currently learning cybersecurity principles and pentesting
+- Currently learning cybersecurity principles and Penetration testing
+- Studying for the CPTS(Certified Penetration Testing Specialist) and Cisco CCNA
 - Fun fact: I'm a boxer and the president of the Boxing Club
 
 ## 🌐 Socials:
