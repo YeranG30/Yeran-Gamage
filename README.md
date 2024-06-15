@@ -36,25 +36,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeranG30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 👨‍💻 Software Development Projects:
+
 - **Automated Penetration Testing Framework**
-  - [Automated Reconnaissance and Vulnerability Detection](https://github.com/YeranG30/Automated-Penetration-Testing-Framework) (Spring 2024)  
+  - [Automated Reconnaissance and Vulnerability Detection](https://github.com/YeranG30/AutomatedSecurityTests) (Spring 2024)  
   Developed Python scripts to automate reconnaissance and vulnerability detection, implementing OWASP Top 10 vulnerability detection and custom troubleshooting scripts.
 
 - **Global Threat Intelligence with SIEM**
-  - [Azure SIEM for RDP Attack Detection](https://github.com/YeranG30/Global-Threat-Intelligence-with-SIEM) (Spring 2023)  
+  - [Azure SIEM for RDP Attack Detection](https://github.com/YeranG30/Developing-SIEM-for-Immediate-RDP-Attack-Detection) (Spring 2023)  
   Developed an Azure SIEM for dynamic RDP attack detection, analyzing international attack patterns.
-
-- **Automated Security Assessment Demo on OWASP Juice Shop**
-  - [Comprehensive Security Assessment](https://github.com/YeranG30/Automated-Security-Assessment-Demo-on-OWASPJuiceShop)  
-  This report provides a comprehensive security assessment of the OWASP Juice Shop infrastructure with thorough security insights using a plethora of the latest security tools such as theHarvester, Nmap, and BurpSuite.
-
-- **Automated Security Tests**
-  - [Network Reconnaissance and Vulnerability Detection](https://github.com/YeranG30/AutomatedSecurityTests)  
-  A comprehensive Python-based framework designed to automate the entire network reconnaissance and vulnerability detection process. This tool integrates several powerful security tools, including Nmap, theHarvester, and WafW00f.
-
-- **Developing SIEM for Immediate RDP Attack Detection**
-  - [Azure Sentinel and PowerShell](https://github.com/YeranG30/Developing-SIEM-for-Immediate-RDP-Attack-Detection)  
-  Creation of a specialized SIEM (Security Information and Event Management) system leveraging Azure Sentinel and PowerShell to transform and visualize RDP attack data.
 
 - **Using Snort for Intrusion Detection**
   - [Custom Detection Rules](https://github.com/YeranG30/Using-Snort-for-Intrusion-Detection)  
@@ -79,5 +68,3 @@
 - **Password Manager**
   - [Python Application](https://github.com/YeranG30/Password-Manager)  
   A Python-based password manager application for securely storing and managing passwords.
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
