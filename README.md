@@ -2,12 +2,11 @@
 
 
 ## 💫 About Me:
-- Working on penetration testing
-- Collaborating on Python scripting
-- Helping with learning new technologies
-- Currently learning cybersecurity principles and Penetration testing
+- Working on Penetration Testing
+- Collaborating on Machine Learning Cybersecurity Solutions
+- Currently learning Cyber Security principles and Penetration testing
 - Studying for the CPTS(Certified Penetration Testing Specialist) and Cisco CCNA
-- Fun fact: I'm a boxer and the president of the Boxing Club
+- Fun fact: I'm a Boxer and the President of the Boxing Club
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yerangamage04) 
