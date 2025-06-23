@@ -2,19 +2,11 @@
 
 ### [Cybersecurity Student](https://github.com/YeranG30) • [Cloud/AppSec Engineer](https://www.linkedin.com/in/yerangamage04)
 
+
+Here's where I showcase the work I'm doing in cloud security, application security, and offensive testing.
+
 ---
-
-##  About Me
-I'm a cybersecurity student at the University of South Florida (Honors College), focused on **cloud security**, **application security**, and **real-world offensive testing**. I interned at Wells Fargo and Honeywell, completed externships with **JPMorgan Chase**, **Verizon**, and **Accenture**, built secure cloud IAM pipelines, and regularly compete in national CTFs with USF CyberHerd.
-
-
-I'm currently building:
-- Secure IaC modules with `terraform test`
-- CI/CD pipelines that self-heal and auto-enforce security
-- Writeups from stego, web, and reverse engineering challenges
-- 
 My GitHub is where I prove—not just say—that I do the work.
-
 ---
 
 ## Tech Stack
