@@ -6,7 +6,7 @@
 Here's where I showcase the work I'm doing in cloud security, application security, and offensive testing.
 
 ---
-My GitHub is where I prove—not just say—that I do the work.
+My GitHub is where I prove, not just say, that I do the work.
 ---
 
 ## Tech Stack
