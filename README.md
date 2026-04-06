@@ -14,4 +14,4 @@ turn depth degradation, and tool call security in agentic pipelines.
 **Current:** B.S. Cybersecurity, USF. Red Team, USF CyberHerd. 
 Incoming GCP Security Engineer at Wells Fargo.
 
-[Website](https://yerangamage.com) • [LinkedIn](link) • [CVEs](link)
+[Website](https://yerangamage.com) • [LinkedIn](www.linkedin.com/in/yerangamage) • [CVEs](https://yerangamage.com/cves/)
